@@ -1,4 +1,4 @@
-# curvetopia
+# Curvetopia
 # Shape Regularization and Classification
 
 ## Overview
